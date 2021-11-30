@@ -1,0 +1,44 @@
+.page {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color:lightseagreen;
+}
+.pagebu{
+    margin-top:-55px;
+    padding-left:480px;
+   
+}
+.pagebu button{
+    font-weight:bold;
+    background-color:coral;
+    width:80px;
+    height:30px;
+    font-size:20px;
+}
+.pagehe1{
+    margin-top:-40px;
+    font-size:20px;
+    color:burlywood;
+}
+.pagehe2 {
+    margin-left:-75px;
+    font-size: 20px;
+   margin-top:30px;
+   color:burlywood;
+}
+    .pagehe2 h3 {
+        margin-top: -20px;
+    }
+    .pagehe3{
+        margin-top:10px;
+        font-size:20px;
+        color:antiquewhite
+    }
+    .pagehe3 h3{
+        margin-top:-20px;
+    }
+    .pagehe0{
+        color:springgreen
+    }
