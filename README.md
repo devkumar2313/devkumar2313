@@ -1,70 +1,50 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Hi there 👋, I am [Dev Kumar Pal](My Portfolio - available soon)! 😁
+<!--
+**devkumar2313/dev-readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-## Available Scripts
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Statistics
+- 👯 I’m looking to collaborate on ...
+-->
 
-In the project directory, you can run:
+Hello, my name is Dev Kumar Pal and I am a Bachelor's student at [M.D University,Rohtak](https://mdu.ac.in/) developing skills in Computer Science. I am a half full-stack software developer and a half programmer with Zero years of experience but working as a self employed student who wants to boost his carrier in computer science. My technology stack involves C/C++, Node.js, React, MySQL, javascript, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Cricket.
 
-### `npm start`
+- 🔭 I’m currently learning about the System Design with the [Frontend Master](https://frontendmasters.com/)
+- 💬 Brainstorm with me over tech, algorithms, career, and Cricket
+- 📫 How to reach me: devkumarpal444@gmail.com
+- 😄 Pronouns: Programmer/He/Him
+- ⚡ Fun fact: Checkout my [dev-kumar-pal](https://www.linkedin.com/in/dev-kumar-pal-313910283/) Community if you are ambitious!
+- 📝 [Resume](https://github.com/devkumar2313/Resume)
+- ⚡ Fun fact: The first computer game was created in 1961.
+ 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Languages and Tools:** 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;&nbsp;
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;&nbsp;
 
-### `npm test`
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=devkumar2313&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkumar2313&hide=TeX&layout=pie)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devkumar2313.devkumar2313&left_color=red&right_color=green&left_text=Hello%20Visitors)
