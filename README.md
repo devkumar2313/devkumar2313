@@ -1,4 +1,6 @@
 
+<p align="center"><img width="100%" height="70%" src="https://github.com/devkumar2313/devkumar2313/assets/72178142/0d298c2d-5489-4213-a392-871cb1a3daaa" /></p>
+
 ### Hi there 👋, I am [Dev Kumar Pal](My Portfolio - available soon)! 😁
 <!--
 **devkumar2313/dev-readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +46,16 @@ Hello, my name is Dev Kumar Pal and I am a Bachelor's student at [M.D University
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;&nbsp;
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)&nbsp;&nbsp;
 
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=devkumar2313&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkumar2313&hide=TeX&layout=pie)
+
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=devkumar2313&count_private=true&show_icons=true&theme=radical&include_all_commits=true" /></p>
+
+
+<p align="center">
+
+ <img width="48%" src="https://github.com/devkumar2313/devkumar2313/assets/72178142/a0f0a302-71d2-4fb8-b0f8-78415e4810bd" />
+ <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkumar2313&hide=TeX&layout=pie" />
+</p>
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devkumar2313.devkumar2313&left_color=red&right_color=green&left_text=Hello%20Visitors)
