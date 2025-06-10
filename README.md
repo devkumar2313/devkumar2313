@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Dev Kumar Pal and I am a Bachelor's student at [M.D University,Rohtak](https://mdu.ac.in/) developing skills in Computer Science. I am a half full-stack software developer and a half programmer with Zero years of experience but working as a self employed student who wants to boost his carrier in computer science. My technology stack involves C/C++, Node.js, React, MySQL, javascript, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Cricket.
+Hello, my name is Dev Kumar Pal and I am a Bachelor's student at [M.D University,Rohtak](https://mdu.ac.in/) developing skills in Computer Science. I want to be a unicorn developer but working as a self employed student who wants to boost his carrier in computer science. My technology stack involves C/C++,python, Node.js, React, MySQL, javascript, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in Cricket.
 
 - 🔭 I’m currently learning about the System Design with the [Frontend Master](https://frontendmasters.com/)
 - 💬 Brainstorm with me over tech, algorithms, career, and Cricket
 - 📫 How to reach me: devkumarpal444@gmail.com
 - 😄 Pronouns: Programmer/He/Him
-- ⚡ Fun fact: Checkout my [dev-kumar-pal](https://www.linkedin.com/in/dev-kumar-pal-313910283/) Community if you are ambitious!
+- ⚡ Fun fact: Checkout my [dev-kumar-pal](https://www.linkedin.com/in/devkumarpal74) Community if you are ambitious!
 - 📝 [Resume](https://github.com/devkumar2313/Resume)
 - ⚡ Fun fact: The first computer game was created in 1961.
  
@@ -50,7 +50,7 @@ Hello, my name is Dev Kumar Pal and I am a Bachelor's student at [M.D University
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=devkumar2313&count_private=true&show_icons=true&theme=radical&include_all_commits=true" /></p>
 
 
-<p align="center"><img width="100%" src="https://streak-stats.demolab.com?user=devkumar2313&theme=dark&locale=sa&date_format=j%20M%5B%20Y%5D" /></p>
+
 <p align="center">
 
  <img width="48%" src="https://github.com/devkumar2313/devkumar2313/assets/72178142/a0f0a302-71d2-4fb8-b0f8-78415e4810bd" />
