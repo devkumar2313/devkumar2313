@@ -1,10 +1,11 @@
 
-<p align="center"><img width="100%" height="250%" src="https://github.com/devkumar2313/devkumar2313/assets/72178142/0d298c2d-5489-4213-a392-871cb1a3daaa" /></p>
+<p align="center"><img width="100%" height="100%" src="https://github.com/devkumar2313/devkumar2313/assets/72178142/0d298c2d-5489-4213-a392-871cb1a3daaa" /></p>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7D54E&background=677B8000&center=true&vCenter=true&width=435&lines=Hi+I+am+Dev%2C+a+human;My+fav+Pokemon+is+Charizard+!)](https://git.io/typing-svg)
 
 
-### Hi there 👋, I am [Dev Kumar Pal](My Portfolio - available soon)! 😁
+### Hi there 👋,(My Portfolio - available soon)! 😁
 <!--
 **devkumar2313/dev-readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -34,13 +35,13 @@ Hello, my name is Dev Kumar Pal and I am a Bachelor's student at [M.D University
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=devkumar2313&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
 <img width="68%" src="https://github-readme-stats.vercel.app/api?username=devkumar2313&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 
- <img width="38%" src="https://github.com/devkumar2313/devkumar2313/assets/72178142/a0f0a302-71d2-4fb8-b0f8-78415e4810bd" />
- 
 </p>
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devkumar2313.devkumar2313&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devkumar2313.devkumar2313&left_color=yellow&right_color=black&left_text=Hi%20Contributers!)
