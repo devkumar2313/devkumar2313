@@ -2,7 +2,7 @@
 <p align="center"><img width="100%" height="100%" src="https://github.com/devkumar2313/devkumar2313/assets/72178142/0d298c2d-5489-4213-a392-871cb1a3daaa" /></p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7D54E&background=677B8000&center=true&vCenter=true&width=435&lines=Hi+I+am+Dev%2C+a+human;My+fav+Pokemon+is+Charizard+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=600&color=F7D54E&background=677B8000&center=true&vCenter=true&width=435&lines=Hi+I+am+Dev%2C+a+Student;My+fav+Pokemon+is+Charizard+!)](https://git.io/typing-svg)
 
 
 ### Hi there 👋,(My Portfolio - available soon)! 😁
