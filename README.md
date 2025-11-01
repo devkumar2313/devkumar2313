@@ -58,7 +58,8 @@ I love discussing technology, algorithms, career paths, and cricket! Feel free t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white
+)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -113,15 +114,6 @@ I love discussing technology, algorithms, career paths, and cricket! Feel free t
 [![Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devkumar2313&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 The first computer game was created in 1961 - and look how far we've come!
-- 🏏 Cricket enthusiast who loves analyzing game strategies (great practice for system design!)
-- 🌟 Building a community of ambitious developers on [LinkedIn](https://www.linkedin.com/in/devkumarpal74)
-- 📚 Portfolio website coming soon - stay tuned!
 
 ---
 
