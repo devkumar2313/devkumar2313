@@ -108,6 +108,8 @@ If you like my work, consider giving my repositories a ⭐ or connect with me on
 </div>
 
 ---
+[![Boot.dev Backend Developer Path certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e7988ef2-47aa-471a-b19c-abef7eaaba74.jpeg?v=1793208839)](https://www.boot.dev/certificates/e7988ef2-47aa-471a-b19c-abef7eaaba74)
+---
 
 <div align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
